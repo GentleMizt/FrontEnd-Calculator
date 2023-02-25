@@ -6,4 +6,7 @@
 main{
     border: 1px solid red;
     width: 80vw;
+    margin: auto;
+    /* position: absolute;
+    top: calc(50% - ); */
 }
