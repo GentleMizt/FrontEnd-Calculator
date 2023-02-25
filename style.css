@@ -34,5 +34,8 @@ main{
     letter-spacing: 1px;
 }
 .top-right-toggle{
-    
+    background-color: hsl(223, 31%, 20%);
+}
+.toggler{
+    background-color: hsl(6, 63%, 50%);
 }
