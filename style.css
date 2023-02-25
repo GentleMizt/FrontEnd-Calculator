@@ -10,7 +10,7 @@ body{
     background-color: hsl(222, 26%, 31%);
 }
 main{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 35vw;
     margin: auto;
     /* position: absolute;
@@ -30,7 +30,7 @@ main{
 .top-right{
     display: flex;
     align-items: center;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     font-size: 1rem;
     letter-spacing: 1px;
 }
