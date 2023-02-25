@@ -29,7 +29,7 @@ main{
 }
 .top-right{
     display: flex;
-    align-items: center;
+    align-items: end;
     border: 1px solid blue;
     font-size: 1rem;
     letter-spacing: 1px;
@@ -40,13 +40,15 @@ main{
 .toggle-no{
     display: flex;
     justify-content: space-between;
+    width: 85%;
+    margin: auto;
 }
 .toggle-no span{
     font-size: 1rem;
 }
 .top-right-toggle{
     width: 7rem;
-    /* border-radius: 1rem; */
+    border-radius: 1rem;
     padding: .3rem;
     display: flex;
     /* justify-content: center; */
