@@ -3,9 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 html{
     font-size: 10px;
 }
+
 body {
     width: 100vw;
     height: 100vh;
@@ -15,9 +17,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+
 main{
    width: 35vw;
 }
+
 .top{
     display: flex;
     justify-content: space-between;
@@ -27,10 +31,12 @@ main{
     align-items: end;
     /* border: 1px solid red; */
 }
+
 .top .top-left{
     font-size: 1.8rem;
     /* border: 1px solid blue; */
 }
+
 .top-right{
     display: flex;
     align-items: end;
@@ -38,18 +44,22 @@ main{
     font-size: 1rem;
     letter-spacing: 1px;
 }
+
 .top-right-text{
     margin-right: 2rem;
 }
+
 .toggle-no{
     display: flex;
     justify-content: space-between;
     width: 85%;
     margin: auto;
 }
+
 .toggle-no span{
     font-size: 1rem;
 }
+
 .top-right-toggle{
     width: 7rem;
     border-radius: 1rem;
@@ -58,6 +68,7 @@ main{
     justify-content: space-between;
     align-items: center;
 }
+
 .top-right-toggle div{
     width: 9px;
     height: 9px;
@@ -65,6 +76,7 @@ main{
     background: #000;
     cursor: pointer;
 }
+
 .middle{
     color: #fff;
     font-size: 3rem;
@@ -76,4 +88,59 @@ main{
     border-radius: .8rem;
     margin-top: 2rem;
     padding-right: 1rem;
+}
+
+.numbers .seven{
+    grid-area: seven;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .nine{
+    grid-area: nine;
+}
+.function .del{
+    grid-area: del;
+}
+.numbers .four{
+    grid-area: four;
+}
+.numbers .five{
+    grid-area: five;
+}
+.numbers .six{
+    grid-area: six;
+}
+.operators .plus{
+    grid-area: plus;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
+}
+.numbers .eight{
+    grid-area: eight;
 }
