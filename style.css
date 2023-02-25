@@ -25,11 +25,11 @@ main{
     color: white;
     font-weight: 700;
     align-items: end;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .top .top-left{
     font-size: 1.8rem;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .top-right{
     display: flex;
@@ -55,7 +55,6 @@ main{
     border-radius: 1rem;
     padding: .3rem;
     display: flex;
-    /* justify-content: center; */
     align-items: center;
 }
 .top-right-toggle div{
@@ -64,4 +63,7 @@ main{
     border-radius: 100%;
     background: #000;
     cursor: pointer;
+}
+.middle{
+    border: 1px solid red;
 }
