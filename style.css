@@ -65,5 +65,11 @@ main{
     cursor: pointer;
 }
 .middle{
-    border: 1px solid red;
+    color: #fff;
+    font-size: 3rem;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 70px;
 }
