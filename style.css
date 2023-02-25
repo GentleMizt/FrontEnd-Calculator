@@ -17,4 +17,6 @@ main{
 .top{
     display: flex;
     justify-content: space-between;
+    font-family: 'League Spartan', sans-serif;
+    color: white;
 }
