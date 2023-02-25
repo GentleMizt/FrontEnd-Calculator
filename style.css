@@ -10,7 +10,7 @@ body{
     background-color: hsl(222, 26%, 31%);
 }
 main{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 35vw;
     margin: auto;
     /* position: absolute;
@@ -40,4 +40,22 @@ main{
 .toggle-no{
     display: flex;
     justify-content: space-between;
+}
+.toggle-no span{
+    font-size: 1rem;
+}
+.top-right-toggle{
+    width: 7rem;
+    /* border-radius: 1rem; */
+    padding: .3rem;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.top-right-toggle div{
+    width: 9px;
+    height: 9px;
+    border-radius: 100%;
+    background: #000;
+    cursor: pointer;
 }
