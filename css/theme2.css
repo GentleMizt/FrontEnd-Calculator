@@ -7,7 +7,7 @@ body{
 .top-right-toggle .btn2{
     background: hsl(6, 63%, 50%);
 }
-.top-right-toggle .btn1 .top-right-toggle .btn3{
+.top-right-toggle .btn1, .top-right-toggle .btn3{
     background: none;
 }
 .middle{
