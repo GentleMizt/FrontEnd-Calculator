@@ -90,6 +90,12 @@ main{
     padding-right: 1rem;
 }
 
+.bottom{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr); 
+}
+
 .numbers .seven{
     grid-area: seven;
 }
