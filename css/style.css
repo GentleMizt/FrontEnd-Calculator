@@ -94,8 +94,13 @@ main{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr); 
+   
 }
 
+    /* grid-template-areas: 
+    'seven eight nine del'
+    'four five six plus'
+    ; */
 .numbers .seven{
     grid-area: seven;
 }
