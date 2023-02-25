@@ -114,33 +114,33 @@ main{
 .operators .plus{
     grid-area: plus;
 }
-.numbers .eight{
-    grid-area: eight;
+.numbers .one{
+    grid-area: one;
 }
-.numbers .eight{
-    grid-area: eight;
+.numbers .two{
+    grid-area: two;
 }
-.numbers .eight{
-    grid-area: eight;
+.numbers .three{
+    grid-area: three;
 }
-.numbers .eight{
-    grid-area: eight;
+.operators .minus{
+    grid-area: minus;
 }
-.numbers .eight{
-    grid-area: eight;
+.decimal{
+    grid-area: decimal;
 }
-.numbers .eight{
-    grid-area: eight;
+.numbers .zero{
+    grid-area: zero;
 }
-.numbers .eight{
-    grid-area: eight;
+.operators .divide{
+    grid-area: divide;
 }
-.numbers .eight{
-    grid-area: eight;
+.operators .multiply{
+    grid-area: multiply;
 }
-.numbers .eight{
-    grid-area: eight;
+.reset{
+    grid-area: reset;
 }
-.numbers .eight{
-    grid-area: eight;
+.equals{
+    grid-area: equals;
 }
