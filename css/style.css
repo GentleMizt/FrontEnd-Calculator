@@ -55,6 +55,7 @@ main{
     border-radius: 1rem;
     padding: .3rem;
     display: flex;
+    justify-content: space-between;
     align-items: center;
 }
 .top-right-toggle div{
