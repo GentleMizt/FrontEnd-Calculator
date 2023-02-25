@@ -13,3 +13,7 @@ main{
     /* position: absolute;
     top: calc(50% - ); */
 }
+.top{
+    display: flex;
+    justify-content: space-between;
+}
