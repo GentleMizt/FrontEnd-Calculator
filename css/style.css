@@ -19,7 +19,7 @@ body {
 }
 
 main{
-   width: 35vw;
+   width: 30vw;
 }
 
 .top{
@@ -94,13 +94,22 @@ main{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr); 
-    grid-template-areas: 
-    'seven eight nine del'
-    'four five six plus'
-    ;
 }
 
-.numbers .seven{
+.numbers, .operators, .decimal-point, .functions {
+    border-radius: 8px;
+    border: none;
+    border-bottom: 3px solid;
+    width: 30px;
+    height: 30px;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: .4s;
+}
+/* .numbers .seven{
     grid-area: seven;
 }
 .numbers .eight{
@@ -137,20 +146,20 @@ main{
     grid-area: minus;
 }
 .decimal{
-    grid-area: decimal;
+    grid-area: decimals;
 }
 .numbers .zero{
-    grid-area: zero;
+    grid-area: zeros;
 }
 .operators .divide{
-    grid-area: divide;
+    grid-area: divider;
 }
 .operators .multiply{
-    grid-area: multiply;
+    grid-area: multiplier;
 }
 .reset{
     grid-area: reset;
 }
 .equals{
     grid-area: equals;
-}
+} */
