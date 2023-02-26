@@ -38,9 +38,9 @@
             break;
             case '=': 
             try{
-                display.innerText = eval(display.innerText).toFixed(3);
+                display.innerText = eval(display.innerText)
             } catch {
-                display.innerText = "Error"
+                display.innerText = "Error!"
             }
             break;
             default:
