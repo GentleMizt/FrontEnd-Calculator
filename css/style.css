@@ -145,3 +145,16 @@ main{
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+
+
+
+
+
+@media (min-width:500px) {
+    body {
+        width: 100vw;
+        height: 100vh;
+        background: none;
+    }
+}
