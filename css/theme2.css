@@ -22,3 +22,33 @@ body{
 .bottom{
     background:hsl(0, 5%, 81%);
 }
+
+.numbers, .operators, .decimal-pts { 
+    background: hsl(45, 7%, 89%);
+    border-color:hsl(35, 11%, 61%) ;
+    color: hsl(60, 10%, 19%);
+}
+
+.numbers:hover, .operators:hover, .decimal-pts:hover {
+    background: #fff;
+} 
+
+.function {
+    background: hsl(185, 42%, 37%);
+    border-color: hsl(185, 58%, 25%);
+    color: #fff;
+    transition: .4s;
+}
+
+.function:hover {
+    background: hsl(185, 56%, 57%);
+}
+
+.equals {
+    background: hsl(25, 98%, 40%);
+    border-color:  hsl(25, 99%, 27%) ;
+}
+
+.equals:hover {
+    background:  hsl(25, 100%, 62%);
+}
