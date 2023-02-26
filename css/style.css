@@ -125,3 +125,18 @@ main{
 .equals{
     grid-column: 3/5;
 }
+
+
+.attribution { 
+    font-size: 11px;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: .8rem;
+ }
+ 
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

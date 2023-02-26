@@ -47,3 +47,11 @@ body{
 .equals:hover {
     background: hsl(6, 100%, 74%);
 }
+
+.attribution {
+    color: #fff;
+}
+
+.attribution a {
+    color: hsl(6, 63%, 50%);
+}
