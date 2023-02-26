@@ -110,7 +110,6 @@ main{
     border-bottom: 3px solid;
     width: 100%;
     height: 4.5rem;
-    font-size: 2.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -120,6 +119,13 @@ main{
     font-weight: 900;
 }
 
+.numbers, .operators, .decimal-pts{
+    font-size: 2.5rem;
+}
+
+.function{
+    font-size: 2rem;
+}
 .reset{
     grid-column: 1/3;
 }
