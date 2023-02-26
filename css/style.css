@@ -19,7 +19,7 @@ body {
 }
 
 main{
-   width: 30vw;
+   width: 25vw;
 }
 
 .top{
@@ -108,6 +108,10 @@ main{
     justify-content: center;
     cursor: pointer;
     transition: .4s;
+}
+
+.reset{
+    grid-column: ;
 }
 /* .numbers .seven{
     grid-area: seven;
