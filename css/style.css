@@ -100,8 +100,8 @@ main{
     border-radius: 8px;
     border: none;
     border-bottom: 3px solid;
-    width: 55px;
-    height: 55px;
+    /* width: 55px;
+    height: 55px; */
     font-size: 1.2rem;
     display: flex;
     align-items: center;
@@ -111,7 +111,11 @@ main{
 }
 
 .reset{
-    grid-column: ;
+    grid-column: 1/3;
+}
+
+.equals{
+    grid-column: 3/5;
 }
 /* .numbers .seven{
     grid-area: seven;
