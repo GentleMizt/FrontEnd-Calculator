@@ -151,10 +151,26 @@ main{
 
 
 
-@media (min-width:500px) {
+@media (max-width:500px) {
     body {
         width: 100vw;
         height: 100vh;
         background: none;
+    }
+    
+    main{
+        width: 50vw;
+    }
+}
+
+@media (max-width:900px) {
+    body {
+        width: 100vw;
+        height: 100vh;
+        background: none;
+    }
+    
+    main{
+        width: 35vw;
     }
 }
