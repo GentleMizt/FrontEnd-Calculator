@@ -2,6 +2,10 @@ body{
     background-color: hsl(222, 26%, 31%);
 }
 
+.top{
+    color: white;
+}
+
 .top-right-toggle{
     background-color: hsl(223, 31%, 20%);
 }
