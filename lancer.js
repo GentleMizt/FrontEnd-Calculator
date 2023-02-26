@@ -20,5 +20,4 @@ btn3.addEventListener('click', ()=>{
 // Calculations and Implementations.
 const display = document.getElementById('display');
 
-const buttons = document.getElementsByClassName('button');
-console.log(buttons);
+const buttons = Array.from(document.getElementsByClassName('button'));
