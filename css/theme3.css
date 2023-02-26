@@ -28,31 +28,36 @@ body{
 }
 
 .numbers, .operators, .decimal-pts { 
-    background: hsl(45, 7%, 89%);
-    border-color:hsl(35, 11%, 61%) ;
-    color: hsl(60, 10%, 19%);
+    background:  hsl(268, 47%, 21%);
+    border-color: hsl(290, 70%, 36%);
+    color: hsl(52, 100%, 62%);
 }
 
 .numbers:hover, .operators:hover, .decimal-pts:hover {
-    background: #fff;
+    background: hsl(268, 77%, 43%) ;
 } 
 
 .function {
-    background: hsl(185, 42%, 37%);
-    border-color: hsl(185, 58%, 25%);
-    color: #fff;
+    background:  hsl(281, 89%, 26%);
+    border-color:  hsl(285, 91%, 52%) ;
+    color: hsl(0, 0%, 100%);
     transition: .4s;
 }
 
 .function:hover {
-    background: hsl(185, 56%, 57%);
+    background: hsl(281, 87%, 51%);
 }
 
 .equals {
-    background: hsl(25, 98%, 40%);
-    border-color:  hsl(25, 99%, 27%) ;
+    background: hsl(176, 100%, 44%);
+    border-color:hsl(177, 92%, 70%);
+    color: hsl(268, 75%, 9%);
 }
 
 .equals:hover {
-    background:  hsl(25, 100%, 62%);
+    background:  hsl(176, 100%, 78%);
+}
+
+.attribution {
+    color: hsl(52, 100%, 62%);
 }
