@@ -128,7 +128,6 @@ main{
 
 
 .attribution { 
-    /* font-size: 8rem; */
     position: absolute;
     top: 10px;
     text-align: center;
@@ -136,8 +135,7 @@ main{
     transform: translateX(-50%);
     font-size: .8rem;
     font-family: 'League Spartan', sans-serif;
-    /* border: 1px solid red; */
- }
+}
 
 .attribution a {
     color: hsl(228, 45%, 44%);
