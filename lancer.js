@@ -16,3 +16,9 @@ btn2.addEventListener('click', ()=>{
 btn3.addEventListener('click', ()=>{
     document.getElementById('themes').href = 'css/theme3.css'
 })
+
+// Calculations and Implementations.
+const display = document.getElementById('display');
+
+const buttons = document.getElementsByClassName('button');
+console.log(buttons);
