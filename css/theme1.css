@@ -13,4 +13,21 @@ body{
 .middle{
     background-color: hsl(224, 36%, 15%);
 }
+.numbers, .operators, .decimal-pts { 
+    background: hsl(30, 25%, 89%);
+    border-color:hsl(28, 16%, 65%) ;
+    color: hsl(221, 14%, 31%);
+}
+.numbers:hover, .operators:hover, .decimal-pts:hover {
+    background: #fff;
+}
+.function{
+    background: hsl(225, 21%, 49%);
+    border-color: hsl(224, 28%, 35%);
+    color: #fff;
+    transition: .4s;
+}
 
+.function:hover {
+    background: hsl(225, 37%, 73%);
+}
