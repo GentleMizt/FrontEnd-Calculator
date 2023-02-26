@@ -38,3 +38,12 @@ body{
 .function:hover {
     background: hsl(225, 37%, 73%);
 }
+
+.equals {
+    background: hsl(6, 63%, 50%);
+    border-color:  hsl(6, 70%, 34%) ;
+}
+
+.equals:hover {
+    background: hsl(6, 100%, 74%);
+}
