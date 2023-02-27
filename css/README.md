@@ -31,14 +31,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](../images/sc1.png)
-![](../images/sc2.png)
-![](../images/sc3.png)
+![img1](../images/sc1.png)
+![img2](../images/sc2.png)
+![img3](../images/sc3.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub)
+- Repo URL: [Github Repo](https://github.com/GentleMizt/FrontEnd-Calculator)
 - Live Site URL: [Add live site URL here](https://spectacular-dolphin-bf5a6e.netlify.app)
+
 
 ## My process
 
