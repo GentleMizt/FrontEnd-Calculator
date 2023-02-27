@@ -29,12 +29,6 @@ Users should be able to:
 - Adjust the color theme based on their preference
 - **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the browser
 
-### Screenshot
-
-[img1](../images/sc1.png)
-[img2](../images/sc2.png)
-[img3](../images/sc3.png)
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub)
