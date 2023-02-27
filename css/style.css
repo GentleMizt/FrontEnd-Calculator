@@ -151,7 +151,7 @@ main{
 
 
 
-@media (max-width:500px) {
+/* @media (max-width:400px) {
     body {
         width: 100vw;
         height: 100vh;
@@ -159,9 +159,10 @@ main{
     }
     
     main{
-        width: 50vw;
+        width: 100vw;
+        border: 1px solid red;
     }
-}
+} */
 
 @media (max-width:900px) {
     body {
@@ -171,6 +172,6 @@ main{
     }
     
     main{
-        width: 35vw;
+        width: 60vw;
     }
 }
