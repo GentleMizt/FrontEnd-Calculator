@@ -33,7 +33,7 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub)
 - Repo URL: [Github Repo](https://github.com/GentleMizt/FrontEnd-Calculator)
-- Live Site URL: [Add live site URL here](https://spectacular-dolphin-bf5a6e.netlify.app)
+- Live Site URL: [Live Site](https://spectacular-dolphin-bf5a6e.netlify.app)
 
 
 ## My process
