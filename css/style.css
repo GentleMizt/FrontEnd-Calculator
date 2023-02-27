@@ -80,6 +80,7 @@ main{
     font-size: 2.3rem;
     font-family: 'League Spartan', sans-serif;
     display: flex;
+    overflow: hidden;
     justify-content: right;
     align-items: center;
     height: 70px;
